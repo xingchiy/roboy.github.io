@@ -105,4 +105,4 @@ theme: hueman
 deploy:
   type: git
   repo: https://github.com/xingchiy/xingchiy.github.io.git
-  branch: master
+  branch: hexo
